@@ -29,5 +29,7 @@ return {
     [9285238704]  = "https://raw.githubusercontent.com/CrazyHub123/ILIKEBALLS/main/RaceClicker.lua",
     [11040063484] = "https://raw.githubusercontent.com/CrazyHub123/ILIKEBALLS/main/SwordFightersSimulator.lua",
     [9498006165]  = "https://raw.githubusercontent.com/CrazyHub123/ILIKEBALLS/main/TappingSimulator.lua",
+    [6875469709]  = "https://raw.githubusercontent.com/CrazyHub123/ILIKEBALLS/main/StrongestPunchSimulator.lua",
+    [12547990726]  = "https://raw.githubusercontent.com/CrazyHub123/ILIKEBALLS/main/AnimeStarSimulator.lua",
     [10404327868] = "https://raw.githubusercontent.com/CrazyHub123/ILIKEBALLS/main/TimbersChampions.lua"
  }
